@@ -20,6 +20,8 @@ Features:
 - Uses LEDs to indicate safe and dangerous distances.
 - Automatically stops the alarm when the object moves away.
 
+  
+
   REACTION TIME GAME #2
   A simple Arduino-based game that tests the player's reaction speed. After a random delay, an LED lights up, and the player must press a button as quickly as possible. Arduino measures and displays the reaction time.
 
@@ -41,6 +43,8 @@ Features:
 - Provides sound feedback using a buzzer.
 - Tracks the player's best reaction time.
 - Allows the player to restart the game.
+
+  
 
 SMART PET FEEDER #3
  An Arduino-based automatic pet feeder that dispenses food at scheduled times. A servo motor controls a small opening mechanism, allowing food to fall into the pet's bowl.
